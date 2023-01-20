@@ -18,9 +18,15 @@ Explore TMDB movies from the US based on their features including revenue, ratin
   - Q3: 
 ## Results
 ### Figure 1
-
+![image](https://user-images.githubusercontent.com/113087687/213648224-d2dbaff6-48bc-4307-bb8d-a01972091437.png)
+Very concentrated revenues around 0, can tell PG and PG-13 certified movies get higher revenues on average.
 ### Figure 2
-
+![image](https://user-images.githubusercontent.com/113087687/213651258-0138d52d-4117-457c-9853-d47fe9868698.png)
+As shown in the legend, movies that run for longer seem to earn a bigger revenue.
 ### Figure 3
-
+![image](https://user-images.githubusercontent.com/113087687/213652133-18478378-572b-4d54-8d7b-b3b7d01829a8.png)
+Looking at the legend, movies that get higher ratings also earn much higher revenues.
 ## Conclusions
+Based off of the 3 answered questions, it is safe to assume the movies with higher ratings and longer runtimes earn much more revenue. As for the certification, those that have a PG and PG-13 age rating seem to earn more revenue.
+# Source of Data
+Data was retrieved from "https://www.themoviedb.org/"

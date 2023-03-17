@@ -13,10 +13,10 @@ Explore TMDB movies from the US based on their features including revenue, ratin
 - Detailed filtering depending on what exact info is needed for the questions
 - Depending on the type of target and variable, the type of test was determined to run for each question
 - After all assumptions were cleared tests were ran and the null hypotheses were either rejected or failed to be rejected
-  - Q1: 
-  - Q2:
-  - Q3: 
-## Results
+  - Q1: Reject the null (There is a correlation between revenue and certification)
+  - Q2: Reject the null (There is a correlation between revenue and movie duration)
+  - Q3: Reject the null (There is a correlation between revenue and average rating)
+## Results 
 ### Figure 1
 ![image](https://user-images.githubusercontent.com/113087687/213648224-d2dbaff6-48bc-4307-bb8d-a01972091437.png)
 Very concentrated revenues around 0, can tell PG and PG-13 certified movies get higher revenues on average.

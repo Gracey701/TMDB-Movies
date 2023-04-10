@@ -1,7 +1,7 @@
 # TMDB Movies Data Exploration
 ### Author: Grace Seo
 ## Purpose
-Explore TMDB movies from the US based on their features including revenue, ratings, certifications etc.
+Analyzed data to see correlations between revenue and multiple features such as certification, movie duration, and average rating. 
 ## Methods
 - Simple filtering and cleaning of data prior to data exploration
 - Additional movie data from TMDB (https://www.themoviedb.org/) were added to the already existing data for further analysis
